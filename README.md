@@ -4,6 +4,7 @@ Temu Kembali citra atau dikenal dengan Image Retrieval merupakan metode pencaria
 ## Tentang Tugas
 1. Tugas pertama ini diharapkan untuk mencari code terkait CBIR dan mencoba menjalankan code tersebut. Code yang didapatkan ini berasal dari Repository Github kemudian dijalankan kembali pada Google Colaboratory.
 2. Tugas kedua yaitu menjalankan code yang telah didapatkan, kemudian dijalankan kembali dengan menggunakan dataset yang berbeda sesuai dengan referensi jurnal utama.
+3. TUgas ketiga yaitu menjalankan kembali code yang telah didapatkan menggunakan dataset yang ada dan diberikan model sesuai dengan pilihan.
 
 ## Kelompok
 Tugas mata kuliah Temu Kembali Citra ini dapat dikerjakan secara berkelompok dengan masing-masing kelompok berisi 2 anggota, maka dari itu tugas ini dikerjakan oleh :
